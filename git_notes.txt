@@ -1,0 +1,15 @@
+-- to check the status of git for folder
+git status -always run first
+
+git init 
+it will create .git hidden folder 
+
+==> commit statemnt
+
+this are checkpoint to track of things
+
+
+
+working dir > git add > staging area > git commit > repo > git push github
+
+
