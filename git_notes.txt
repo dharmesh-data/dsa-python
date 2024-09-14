@@ -13,3 +13,17 @@ this are checkpoint to track of things
 working dir > git add > staging area > git commit > repo > git push github
 
 
+git add specify one_file_name
+so only one file with name commited other will not be commited
+
+git config --global core.editor "code --wait"
+
+git config core.editor "code --wait"
+to open cscode instead of vim editor when you run just git commit commited
+
+--use to create new file
+touch file_name 
+
+
+git config --list to see details of username and email
+
